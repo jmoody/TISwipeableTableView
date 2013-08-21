@@ -1,6 +1,7 @@
 # Mac OS X Finder
 .DS_Store
-
+screenshot_*
+.irb_history
 # Xcode
 *.mode1
 *.mode1v3

@@ -1,0 +1,17 @@
+ids
+exit
+ids
+labels
+query("tableViewCell index:1")
+touch("tableViewCell index:1")
+swipe('left', "tableViewCell index:1")
+exit
+swipe('left', {query:"tableViewCell index:1"})
+swipe('left', {query:"tableViewCell index:1"})
+swipe('left', {query:"tableViewCell index:1"})
+exit
+swipe('left', {query:"tableViewCell index:1"})
+swipe('left', {query:"tableViewCell index:1"})
+exit
+swipe('left', {query:"tableViewCell index:1"})
+exit
